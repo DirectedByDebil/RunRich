@@ -15,4 +15,3 @@ MonoBehaviour:
   randomizedLvls: 0
   lvls:
   - {fileID: 382954181798011506, guid: bad9156724fce0243a8f6fe0dd52118e, type: 3}
-  - {fileID: 382954181798011506, guid: a28de63c6d3bf2d4494ecd638014fa49, type: 3}

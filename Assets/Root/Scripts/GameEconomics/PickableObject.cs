@@ -2,10 +2,10 @@ using UnityEngine;
 using System;
 
 
-namespace Money
+namespace GameEconomics
 {
 
-    public sealed class PickableObject : MonoBehaviour
+    public sealed class PickableObject : MonoBehaviour, IPickable
     {
 
         public event Action<int> PickedUp;
